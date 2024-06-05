@@ -7,3 +7,7 @@ scikit-learn==0.24.2
 git add requirements.txt
 git commit -m "Add matplotlib to requirements"
 git push origin main
+streamlit
+matplotlib
+pandas
+numpy
